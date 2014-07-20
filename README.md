@@ -1,4 +1,4 @@
-JHDSClass
+datasciencecoursera
 =========
 
 John Hopkins Data Science Class
